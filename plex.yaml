@@ -1,0 +1,4 @@
+spring:
+  mysql-datasource:
+    username: root
+    password: root
